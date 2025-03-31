@@ -1,2 +1,2 @@
 # Fisica_Computacional_FC_UNAM
-Trabajos de las materias de Física Computacional de la Facultad de Ciencias de la UNAM
+Contains assignments, exams, and a final project from the Computational Physics course at UNAM (semester 2023-1). The work involves numerical analysis, simulations, and computational methods applied to physical problems using Jupyter Notebooks. Key libraries used include NumPy (numerical operations), Matplotlib (data visualization), SciPy (advanced numerical methods), Pandas (data management), and SymPy (symbolic algebra).
